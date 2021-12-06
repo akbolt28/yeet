@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.rbxflip.com	TRUE	/	FALSE	1999999999	__ddg1	f6tyvOq20Qm9GclgWOF4
+
